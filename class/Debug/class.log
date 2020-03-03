@@ -1,0 +1,5 @@
+﻿  Point.cpp
+  Triangle.cpp
+C:\Users\ersavchenko\source\repos\class\class\Point.cpp(8,1): error C2143:  синтаксическая ошибка: отсутствие ";" перед "}"
+  Создание кода...
+C:\Users\ersavchenko\source\repos\class\class\Triangle.cpp(12,73): error C2143:  синтаксическая ошибка: отсутствие ")" перед ";"
